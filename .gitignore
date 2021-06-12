@@ -4,6 +4,7 @@
 /storage/*.key
 /vendor
 /mybackup
+/node_modules
 .env
 .env.backup
 .phpunit.result.cache
